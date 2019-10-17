@@ -1,0 +1,12 @@
+{
+  "versions": {
+    "0.1": {
+      "description": "First Release of VKBottle-r. Init download",
+      "download_link": "yadi.sk/"
+    },
+    "0.2": {
+      "description": "What's new?\n* Cosmetics\n* Validators args and VBML Updates\n* Mailing",
+      "download_link": "yadi.sk/"
+    }
+  }
+}
