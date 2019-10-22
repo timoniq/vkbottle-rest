@@ -1,5 +1,6 @@
 {
   "version": "0.2",
   "rel": "r",
-  "author": "Arseniy Timonik"
+  "author": "Arseniy Timonik",
+  "description": "Install new version with pip"
 }
