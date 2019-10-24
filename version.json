@@ -1,6 +1,6 @@
 {
-  "version": "0.2",
+  "version": "0.2.1",
   "rel": "r",
   "author": "Arseniy Timonik",
-  "description": "Install new version with pip"
+  "description": "(New: mention bot in chats) Install new version with pip"
 }
