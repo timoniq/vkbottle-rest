@@ -1,6 +1,6 @@
 {
-  "version": "0.31",
+  "version": "0.32",
   "rel": "r",
   "author": "Arseniy Timonik",
-  "description": "Please update, ok?"
+  "description": "Update VBML control, fixes, desc handlers"
 }
